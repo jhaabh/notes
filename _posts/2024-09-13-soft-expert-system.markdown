@@ -3,6 +3,8 @@ title: Soft Expert System
 date: 2024-09-13 20:00:00 +0530
 categories: [LLM]
 tags: [llm, idea]
+description: Explore Soft Expert Systems, an evolution of traditional expert systems using large language models (LLMs).
+keywords: soft expert system, expert systems, agents, intelligent agents, LLM, AI, reasonable agents
 ---
 
 Rule-based systems, or what we've traditionally called expert systems, were an early AI approach to bottle up human expertise into if-then statements. They've carved out niches in areas like medical diagnostics or fixing machinery, but let's be honest, their reach has been somewhat limited.
